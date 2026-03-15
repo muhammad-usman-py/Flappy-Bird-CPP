@@ -4,6 +4,9 @@
 This project is a desktop Flappy Bird game built in C++ using SFML.
 The game includes smooth bird physics, moving pipe obstacles, live score tracking, and a persistent leaderboard.
 
+## Game Preview
+![Flappy Bird Gameplay](assets/gameplay-preview.png)
+
 A key gameplay behavior is now included:
 - On collision with a pipe (or boundary), gameplay stops immediately.
 - The window stays open and shows options to restart or quit.
