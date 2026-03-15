@@ -33,7 +33,7 @@ A key gameplay behavior is now included:
 
 ## Project Structure
 ```text
-snaullah_flappybird/
+flappybird-cpp/
 ├── assets/
 │   ├── bg.png
 │   ├── bird.png
